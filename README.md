@@ -3,7 +3,7 @@
 [Game Artist and Designer](https://www.linkedin.com/in/alec-chalmers/)
 # Hey there 👋, 
 ### My name is Alec Chalmers
-#### Course Leader for BA (Hons) Games Art and BA (Hons) Games Design at Leeds Arts University.
+#### Course Leader for [BA (Hons) Games Art](https://www.leeds-art.ac.uk/courses/ba-hons-games-art) and [BA (Hons) Games Design](https://www.leeds-art.ac.uk/courses/ba-hons-games-design) at Leeds Arts University.
 
 
 I love all aspects of gaem development, and I have experience working as both a Game Artist and a Concept Artist in the games industry! Currently learning C++
