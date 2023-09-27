@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**alecchalm/alecchalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Game Artist and Designer](https://www.linkedin.com/in/alec-chalmers/)
+# Hey there 👋, 
+### My name is Alec Chalmers
+#### Course Leader for BA (Hons) Games Art and BA (Hons) Games Design at Leeds Arts University.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love all aspects of gaem development, and I have experience working as both a Game Artist and a Concept Artist in the games industry! Currently learning C++
+
+Skills: C++
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alecchalm) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alec-chalmers/) 
