@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Game Artist and Designer](https://www.linkedin.com/in/alec-chalmers/)
+[Game Artist and Designer](https://www.linkedin.com/in/alec-chalmers/)
 # Hey there 👋, 
 ### My name is Alec Chalmers
 #### Course Leader for BA (Hons) Games Art and BA (Hons) Games Design at Leeds Arts University.
