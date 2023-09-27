@@ -6,7 +6,7 @@
 Course Leader for [BA (Hons) Games Art](https://www.leeds-art.ac.uk/courses/ba-hons-games-art) and [BA (Hons) Games Design](https://www.leeds-art.ac.uk/courses/ba-hons-games-design) at Leeds Arts University.
 
 
-I love all aspects of gaem development, and I have experience working as both a Game Artist and a Concept Artist in the games industry! Currently learning C++
+I love all aspects of game development, and I have experience working as both a Game Artist and a Concept Artist in the games industry! Currently learning C++
 
 Skills: C++
 
