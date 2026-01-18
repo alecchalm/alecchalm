@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [Game Artist and Designer](https://www.linkedin.com/in/alec-chalmers/)
 # Hey there 👋, 
 ### My name is Alec Chalmers
